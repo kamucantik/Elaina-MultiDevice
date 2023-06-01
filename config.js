@@ -59,8 +59,8 @@ global.ppulsa = '081252254886' //Nomor SimCard Yang Kamu Pake
 global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281527636785' //Nomor Bot
-global.nomorown = '6281252254886' //Nomor Owner
+global.nomorbot = '62895346247773' //Nomor Bot
+global.nomorown = '6281527636785' //Nomor Owner
 global.namebot = 'ＪＡＳＡ ＫＥＢＵＴＵＨＡＮ ＡＬＬ ＳＯＳＭＥＤ 𝐁𝐎𝐓𝐳' //Nama Bot
 global.nameown = '𝒁𝑨𝑲𝒀 - 𝑹𝑬𝑨𝑳' // Nama Owner
 
